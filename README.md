@@ -1,4 +1,5 @@
 #Lixeira Inteligente feita com Arduino Uno R3
+
 Integrantes: Daniel Bilibio, Eduardo Disarz, João Nazzari e Thomas Jefferson.
 
 
